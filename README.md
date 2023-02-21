@@ -33,15 +33,14 @@ Here are some ideas to get you started:
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adotk24&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adotk24&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adotk24&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adotk24&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me!
 <a href="https://www.linkedin.com/in/andrewkimcode/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
