@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adotk24&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adotk24&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="http://www.github.com/adotk24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adotk24&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Connect with me!
 <a href="https://www.linkedin.com/in/andrewkimcode/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
