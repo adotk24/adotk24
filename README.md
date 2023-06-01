@@ -1,4 +1,4 @@
-### Hey I'm Andrew! Former law student current full stack engineer! Welcome to my github!
+### Hey I'm Andrew! Former Law Student, Current Full Stack engineer! Welcome to my Github!
 
 <!--
 **adotk24/adotk24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
